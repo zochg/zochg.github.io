@@ -1,4 +1,4 @@
-# Grant Zoch
+# Grant Zoch :clap: :whale2: 
 
 1575 NW Circle Blvd., Corvallis, OR 97330
 
@@ -6,15 +6,21 @@
 
 zochg@oregonstate.edu
 
-ceoas.oregonstate.edu/profile/zoch
+[Personal Website](https://ceoas.oregonstate.edu/profile/zoch)
 
 # Summary
 
 I believe that I am qualified for this position because I have deep, personal experience working abroad with people in developing countries and can recognize and evaluate the problems facing them and their communities. Because of this, I feel that I can help the organization to further meet its goals towards creating a productive, equitable, and empowering environment for people across the globe.
 
+A guiding principle of my life has been from John F Kennedy. As he so eloquently said, 
+
+> And so, my fellow Americans, ask not what your country can do for you -- ask what you can do for your country.
+
 # Work Experience
 
-### Picadilly Farm	
+### Picadilly Farm
+
+### ![a farm](http://www.mountainviewgrand.com/files/2794/Farm_summer_1.jpg)	
 
 Winchester, NH _May 2017 - August 2017_
 
@@ -109,6 +115,13 @@ __Welcome Week Leader__
 
 # Skills
 
-Language: Native/Fluent English; Professional French working proficiency; Professional Malinke working proficiency
+| Languages | Technical        |
+| --------- | ---------------- |
+| English   | Windows OS       |
+| French    | Microsoft Office |
+| Malinke   | A/V Equipment    |
 
-Technical: Proficient in Windows OS; Microsoft Office proficiency in Word, Excel, and Powerpoint; Proficiency with most Audio/Visual equipment, including sound mixing boards
+
+
+
+
